@@ -1,4 +1,4 @@
-![icon](screenshots/lifi_logo.png)
+![icon](screenshots/lifi_logo_130x80.png)
 # Li - Fi Technology PPT
 ![screenshots](screenshots/screenshot_1001x563.png)
 
